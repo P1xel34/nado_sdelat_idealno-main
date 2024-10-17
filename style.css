@@ -33,13 +33,12 @@ body {
 }
 
 .page_title {
-    margin-top: 100px;
+    margin-top: 50px;
     z-index: 200;
     font-family: "bold";
     font-size: 116px;
     width: 739px;
     text-align: center;
-    margin: 0;
 }
 
 .page_title::after {
